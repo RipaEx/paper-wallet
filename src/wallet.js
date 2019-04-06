@@ -2,7 +2,7 @@
 import crypto from 'crypto'
 
 import bip39 from 'bip39'
-import arkjs from 'arkjs'
+import arkjs from 'ripajs'
 
 angular.module('wallet', [])
   .factory('wallet', () => {
@@ -14,7 +14,7 @@ angular.module('wallet', [])
         }
 
         let networks = arkjs.networks
-        let ecpair = arkjs.ECPair.fromSeed(passphrase, networks.ark)
+        let ecpair = arkjs.ECPair.fromSeed(passphrase, networks.ripa)
 
         let publicKey = ecpair.getPublicKeyBuffer().toString('hex')
         let address = ecpair.getAddress().toString('hex')
