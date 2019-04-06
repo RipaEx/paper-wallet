@@ -1,12 +1,12 @@
-# ARK Paper Wallet
+# XPX Paper Wallet
 
 <p align="center">
-    <img src="./banner.png" />
+    <img src="./banner_medium_paper.jpg" />
 </p>
 
-> Paper wallet generator for the Ark cryptocurrency.
+> Paper wallet generator for the XPX cryptocurrency.
 
-[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/paper-wallet)](https://github.com/ArkEcosystem/paper-wallet/releases/latest)
+[![Latest Version](https://badgen.now.sh/github/release/RipaEx/paper-wallet)](https://github.com/RipaEx/paper-wallet/releases/latest)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Getting Started
@@ -23,22 +23,23 @@ Open `index.html` in your favorite browser.
 
 ## Security
 
-If you discover a security vulnerability within this project, please send an e-mail to security@ark.io. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to security@ripaex.io. All security vulnerabilities will be promptly addressed.
 
 ## Contributing
 
 * If you find any bugs, submit an [issue](../../issues) or open [pull-request](../../pulls), helping us catch and fix them.
-* Engage with other users and developers on [ARK Slack](https://ark.io/slack/).
+* Engage with other users and developers on [RipaEx Slack](https://join.slack.com/t/ripaex/shared_invite/enQtMzM4NzUwNjU4OTQ0LTY3MDJmMTdhYTNlZjJlNGUxNzM1YjUwYjgyYjZlMDJmOTg3NTIzNThmNTYyMGQ3ODBkOTRmYzk3Y2Y4MzBkOTY).
 * Join the #development channel on Slack.
-* [Contribute bounties](https://github.com/ArkEcosystem/ARK-Bounty-Program).
+* [Contribute bounties](https://steemit.com/news/@ripaex/ripa-github-development-bounty-program).
 
 ## Credits
 
 - [Alex Barnsley](https://github.com/alexbarnsley)
 - [Lúcio Rubens](https://github.com/luciorubeens)
 - [Juan Martín](https://github.com/j-a-m-l)
+- [G.Silvestri](https://github.com/gsilvestri)
 - [All Contributors](../../contributors)
 
 ## License
 
-[MIT](LICENSE) © [ArkEcosystem](https://ark.io)
+[MIT](LICENSE) © [RipaEx](https://ripaex.com)
